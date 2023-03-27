@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache

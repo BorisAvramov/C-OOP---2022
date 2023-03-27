@@ -1,0 +1,28 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Reflection and Attributes - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

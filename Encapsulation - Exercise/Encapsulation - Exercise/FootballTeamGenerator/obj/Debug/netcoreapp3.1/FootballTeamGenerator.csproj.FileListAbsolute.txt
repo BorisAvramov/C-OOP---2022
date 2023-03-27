@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache

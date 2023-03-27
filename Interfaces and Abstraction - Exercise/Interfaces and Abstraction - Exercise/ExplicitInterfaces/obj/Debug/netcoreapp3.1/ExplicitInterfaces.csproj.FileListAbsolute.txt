@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache

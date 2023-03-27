@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\bin\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\PizzaCalories\obj\Debug\netcoreapp3.1\PizzaCalories.genruntimeconfig.cache

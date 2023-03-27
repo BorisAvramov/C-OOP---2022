@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "akDvZV4y8aA4QInZJ19Hu4SlKl4KgMSqjLDJDJ1quM/AovF03SkrIdZpEfUQhaIAnZld26mSU2VYCoW1iP+bUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\C# OOP - юни 2022\\Mocking and Test Driven Development Lab\\BankSoftware\\BankSoftware\\BankSoftware\\BankSoftware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

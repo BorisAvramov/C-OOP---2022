@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\ShoppingSpree\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache

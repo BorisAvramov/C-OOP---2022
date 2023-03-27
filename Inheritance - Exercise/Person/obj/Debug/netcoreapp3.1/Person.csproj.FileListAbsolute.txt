@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

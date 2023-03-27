@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.1\Chainblock.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Mocking and Test Driven Development Excetrsice\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.1\Chainblock.genruntimeconfig.cache

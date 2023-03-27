@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Lab\Interfaces and Abstraction - Lab MY SOLUTION\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache

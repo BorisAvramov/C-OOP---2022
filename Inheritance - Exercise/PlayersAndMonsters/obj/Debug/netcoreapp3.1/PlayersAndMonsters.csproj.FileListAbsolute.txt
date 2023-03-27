@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Inheritance - Exercise\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache

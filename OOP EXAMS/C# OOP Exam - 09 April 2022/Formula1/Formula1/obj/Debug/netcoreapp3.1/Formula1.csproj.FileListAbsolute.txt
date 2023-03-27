@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.exe
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\bin\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 09 April 2022\Formula1\Formula1\obj\Debug\netcoreapp3.1\Formula1.genruntimeconfig.cache

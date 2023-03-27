@@ -1,0 +1,59 @@
+OOP PRINCIPES
+	*- ENCAPSULATION
+		Definition (protecting and preventing data altering by outside by create private fields)
+		 
+			EXEMPLE:
+				CAT with 
+				
+				PRIVATE FIELDS (hungry, energy, meow()) and 
+				PUBLIC METHODS 
+					sleep() - energy +, hungry +
+					feed () - hungry -, energy +, meow()
+		Action Objects do not change fields directly, but call methods than change them indirectly.
+		Benefits  	-Protection of data from accidental corruption.
+					-Specification of the accessibility of each of the members of a class to the code outside the class
+		
+	*- ABSTRACTION
+		Definition (hiding internal/certain details and showing only functionality/essentil information)
+		 
+			EXEMPLE:
+				COFFEE MACHINE - WE DO NOT NEED TO UNDERSTAND HOW IT PREPARE COFFEE 
+				INSTEAD WE KNOW TO PUSH BUTTON THAT MAKES IT WORK 
+			
+		Action -Abstract class: is a restricted class that cannot be used to create objects 
+				(to access it, it must be inherited from another class);
+			   -Abstract method: can only be used in an abstract class, 
+			   and it does not have a body. The body is provided by the derived class (inherited from).
+		Benefits - allows you to create functionality that subclasses can implement or override
+				 - reusable code, simpler, easier to change
+	*- INHERITANCE
+		Definition (CHILD / SUBCLASS / DERIVED CLASS 
+					INHERITS FUNCTIONALITY OF PARENT / SUPERCLASS / BASE CLASS
+					AS FIELDS AND METHODS)
+					* FOR SIMILAR OBJECTS WITH COMMON LOGIG. BUT NOT THE SAME
+		Action 	To inherit from a class, use the : symbol.
+				
+		Benefits - code reusability, readablity
+				 -  extensibility by overriding the base class functionality within child classes
+				 - modify the behavior defined in other classes
+	*- Polymorphism "MANY FORMS"
+		Definition (ABILITY CHILD CLASSES / INSTANCE OF OBJECT 
+					TO HAVE DIFF FORMS AND BEHAVIORS LIKE DIFF implementations of methods)
+		EXEMPLE:
+				BASE CLASS ANIMAL (PRODUCED SOUND, VIRTUAL METHOD)
+				CHILD DOG (SOUND 'BAU BAU', OVERRIDE METHOD)
+				CHILD CAT (SOUND 'MEOW MEOW', OVERRIDE METHOD)
+				
+				* DOG IS FORM OF ANIMAL
+				* CAT IS FORM OF ANIMAL
+				
+		Action 	-METHOD OVERRIDE VIRTUAL OR ABSTRACT METHODS AND PROPERTIES /RUNTIME, DYNAMIC POPYMORPHISM, ONE METHOD WITH SAME NAME AND PARAMETERS/
+				-METHOD OVERLOADING MANY METHODS WITH SAME NAME BUT DIFF PARAMETERS /COMPILE, STATIC POLYMORPHISM/
+				-BY INTERFACES WHICH GIVE  METHODS AND  PROPERTIES OF COMMON OBJECTS. CHILDRENS DEFINES BEHEVAIOR OF METHODS
+		Benefits - code reusability
+				 -  single variable name for multiple data types.
+				 - Reduces coupling between different functionalities.
+				 
+				 
+				 
+	

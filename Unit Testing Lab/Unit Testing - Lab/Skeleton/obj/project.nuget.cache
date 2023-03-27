@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "SjSLhP2RJRIAhXhUuX3yjAmJKAQE8aEopfUWn08EtFoD91Ar/W8L1MQRSKOo7IIL7SGw0UhdqPkcE79umiCkHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\C# OOP - юни 2022\\Unit Testing Lab\\Unit Testing - Lab\\Skeleton\\Skeleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\moq\\4.18.1\\moq.4.18.1.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

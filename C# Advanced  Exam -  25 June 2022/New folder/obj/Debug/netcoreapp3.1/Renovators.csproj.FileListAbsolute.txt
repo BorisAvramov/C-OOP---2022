@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\New folder\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache

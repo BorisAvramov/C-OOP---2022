@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.exe
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Retake Exam - 20 Dec 2021 SECOND\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.genruntimeconfig.cache

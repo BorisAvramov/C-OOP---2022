@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Exercise\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

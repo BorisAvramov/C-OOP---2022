@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Lab Inheritance\Inheritance - Lab\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

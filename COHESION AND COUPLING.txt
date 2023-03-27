@@ -1,0 +1,8 @@
+COHESION
+		describes the relationships within modules
+		
+COUPLING
+		describes the relationships between modules
+		
+TARGETS 
+		HIGH COHESION AND LOW  COUPLING

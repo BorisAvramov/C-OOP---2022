@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Lab\Encapsulation - Lab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache

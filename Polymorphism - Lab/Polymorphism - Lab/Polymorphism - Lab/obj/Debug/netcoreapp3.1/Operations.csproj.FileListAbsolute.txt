@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\bin\Debug\netcoreapp3.1\Operations.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\bin\Debug\netcoreapp3.1\Operations.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\bin\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\bin\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Polymorphism - Lab\Polymorphism - Lab\Polymorphism - Lab\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\Box.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\Box.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\Box.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\Box.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\Box.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\bin\Debug\netcoreapp3.1\Box.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Encapsulation - Exercise\Encapsulation - Exercise\Class Box Data\obj\Debug\netcoreapp3.1\Box.genruntimeconfig.cache

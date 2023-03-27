@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Tiles Master.exe
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Tiles Master.deps.json
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.json
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Tiles Master.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Tiles Master.dll
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Tiles Master.pdb
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.AssemblyInfo.cs
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.dll
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.pdb
+C:\Users\Dell\Desktop\C# Advanced  Exam -  25 June 2022\C Advanced  Exam -  25 June 2022\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Tiles Master.genruntimeconfig.cache

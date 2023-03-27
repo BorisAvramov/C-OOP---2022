@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\bin\Debug\netcoreapp3.1\BankSoftware.exe
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\bin\Debug\netcoreapp3.1\BankSoftware.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\bin\Debug\netcoreapp3.1\BankSoftware.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\bin\Debug\netcoreapp3.1\BankSoftware.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\bin\Debug\netcoreapp3.1\BankSoftware.dll
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\bin\Debug\netcoreapp3.1\BankSoftware.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.dll
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\New folder\BankSoftware\BankSoftware\ConsoleApp1\obj\Debug\netcoreapp3.1\BankSoftware.genruntimeconfig.cache

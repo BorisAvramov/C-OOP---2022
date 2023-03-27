@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RnoB3hVzU9aRhfqTGgsGmFTq2Ci7aobv2WTPTQ+Jmb2PVzjIvgkqLaldyw/1IJCJo3AmI/Gw9+xAJtUn7gOpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\C# OOP - юни 2022\\Lab Inheritance\\InheritanceDemos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

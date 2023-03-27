@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Polymorphism - Lab\Operations.csproj", "{AEACB094-0818-4DB9-8C07-25719D5A14A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{4B3FF5A5-128A-40D1-A2C5-001E077EEADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{4735928A-7B4A-4A10-B407-91CA980D2CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEACB094-0818-4DB9-8C07-25719D5A14A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEACB094-0818-4DB9-8C07-25719D5A14A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEACB094-0818-4DB9-8C07-25719D5A14A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEACB094-0818-4DB9-8C07-25719D5A14A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3FF5A5-128A-40D1-A2C5-001E077EEADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3FF5A5-128A-40D1-A2C5-001E077EEADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3FF5A5-128A-40D1-A2C5-001E077EEADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3FF5A5-128A-40D1-A2C5-001E077EEADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4735928A-7B4A-4A10-B407-91CA980D2CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4735928A-7B4A-4A10-B407-91CA980D2CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4735928A-7B4A-4A10-B407-91CA980D2CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4735928A-7B4A-4A10-B407-91CA980D2CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E9F563F-AF7F-4F47-B43A-EFBC3B7F709B}
+	EndGlobalSection
+EndGlobal

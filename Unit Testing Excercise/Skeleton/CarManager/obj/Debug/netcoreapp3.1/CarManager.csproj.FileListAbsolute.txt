@@ -1,0 +1,10 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Unit Testing Excercise\Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

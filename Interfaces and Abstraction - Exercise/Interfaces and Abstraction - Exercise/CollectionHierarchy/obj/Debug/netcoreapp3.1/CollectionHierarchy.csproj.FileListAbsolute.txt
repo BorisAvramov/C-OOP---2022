@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache

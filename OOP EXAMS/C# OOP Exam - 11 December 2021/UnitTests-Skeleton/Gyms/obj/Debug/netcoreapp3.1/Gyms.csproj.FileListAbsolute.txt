@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.exe
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\bin\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.dll
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\OOP EXAMS\C# OOP Exam - 11 December 2021\UnitTests-Skeleton\Gyms\obj\Debug\netcoreapp3.1\Gyms.genruntimeconfig.cache

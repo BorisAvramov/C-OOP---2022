@@ -1,0 +1,14 @@
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\Dell\source\C# OOP - юни 2022\Interfaces and Abstraction - Exercise\Interfaces and Abstraction - Exercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache
